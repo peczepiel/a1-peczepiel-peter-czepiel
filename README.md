@@ -37,11 +37,11 @@ Links and Screenshot
 ---
 
 Here is a working link to my gh-pages site:
-https://peczepiel.github.io/
+[https://peczepiel.github.io/a1-peczepiel-peter-czepiel/](https://peczepiel.github.io/a1-peczepiel-peter-czepiel/)
 
 Some links I used to help me with the design process are:
-- https://www.w3schools.com/graphics/svg_transformations.asp (information about SVG Transformations)
-- https://d3-graph-gallery.com/graph/shape.html#mytext (basic information about how to make SVG shapes using D3)
+- [https://www.w3schools.com/graphics/svg_transformations.asp](https://www.w3schools.com/graphics/svg_transformations.asp) (information about SVG Transformations)
+- [https://d3-graph-gallery.com/graph/shape.html#mytext](https://d3-graph-gallery.com/graph/shape.html#mytext) (basic information about how to make SVG shapes using D3)
 
 Here is a screenshot of the final product:
 ![Final Screenshot](image.png)
