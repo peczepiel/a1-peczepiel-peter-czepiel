@@ -37,7 +37,7 @@ Links and Screenshot
 ---
 
 Here is a working link to my gh-pages site:
-[https://peczepiel.github.io/a1-peczepiel-peter-czepiel/](https://peczepiel.github.io/a1-peczepiel-peter-czepiel/)
+[https://peczepiel.github.io/a1-ghd3-peczepiel/](https://peczepiel.github.io/a1-ghd3-peczepiel/)
 
 Some links I used to help me with the design process are:
 - [https://www.w3schools.com/graphics/svg_transformations.asp](https://www.w3schools.com/graphics/svg_transformations.asp) (information about SVG Transformations)
